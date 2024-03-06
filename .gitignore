@@ -10,7 +10,6 @@ __pycache__/
 .Python
 db/
 include/
-bin/
 build/
 develop-eggs/
 dist/
